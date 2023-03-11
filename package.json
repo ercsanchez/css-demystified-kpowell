@@ -1,0 +1,24 @@
+{
+  "name": "css-demystified-kpowell",
+  "version": "1.0.0",
+  "description": "CSS Demystified by Kevin Powell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier . --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ercsanchez/css-demystified-kpowell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ercsanchez/css-demystified-kpowell/issues"
+  },
+  "homepage": "https://github.com/ercsanchez/css-demystified-kpowell#readme",
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
