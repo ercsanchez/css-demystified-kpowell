@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
 }
 
@@ -81,4 +81,23 @@ h1 {
 .button--dark {
   color: white;
   background: #4e4e4e;
+}
+
+.plan--light > .button {
+  color: white;
+  background: #4e4e4e;
+}
+
+.plan--accent > .button {
+  color: #4e4e4e;
+  background: white;
+}
+
+.plan--light .plan__price {
+  color: #00a1ab;
+}
+
+.plans + p + .button {
+  background: #00a1ab;
+  color: white;
 }
